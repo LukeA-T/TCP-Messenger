@@ -13,8 +13,8 @@ Instructions:
 
 4. Determine the IP address of the server host. Use the host's local IP address if the client is in the same local network, otherwise use the host's public IP address.
 
-5. Enter the IP address of the host into the Host IP address field on the client application, and press the 'Connect' button.
+5. Enter the IP address of the host into the Host IP address field on the client application, and press the Connect button.
 
 6. If the connection is successful, you will get a 'connection successful' message.
 
-7. Type a message into the input text box, and press the 'Send' button to send a message to/from the host/client.
+7. Type a message into the input text box, and press the Send button to send a message to/from the host/client.
