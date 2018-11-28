@@ -9,7 +9,7 @@ Instructions:
 
 2. Run the client application and the server application.
 
-3. Give yourself a name (or leave it as 'Client'/'Server' by default)
+3. Give yourself a name (or leave it as 'Client'/'Server' by default).
 
 4. Determine the IP address of the server host. Use the host's local IP address if the client is in the same local network, otherwise use the host's public IP address.
 
