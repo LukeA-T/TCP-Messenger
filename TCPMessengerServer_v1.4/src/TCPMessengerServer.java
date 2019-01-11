@@ -68,7 +68,7 @@ public class TCPMessengerServer extends javax.swing.JFrame {
         setLocation(new java.awt.Point(75, 100));
         setMinimumSize(new java.awt.Dimension(400, 440));
         setName("TCPMessengerServer"); // NOI18N
-        setPreferredSize(new java.awt.Dimension(400, 440));
+        setPreferredSize(new java.awt.Dimension(454, 475));
 
         msgInputArea.setColumns(20);
         msgInputArea.setLineWrap(true);
@@ -152,7 +152,7 @@ public class TCPMessengerServer extends javax.swing.JFrame {
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(userNameButton, javax.swing.GroupLayout.PREFERRED_SIZE, 24, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(userNameButton, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                         .addComponent(userNameArea, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addComponent(userNameLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 21, javax.swing.GroupLayout.PREFERRED_SIZE)))
